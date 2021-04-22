@@ -1,5 +1,8 @@
 
 class Classifier {
-	public:
-		int data;
+	int data;
+};
+
+void train() {
+	printf("train()");
 };
